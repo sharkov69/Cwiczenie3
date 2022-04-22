@@ -11,8 +11,7 @@
   "profiles": {
     "Cwiczenie3": {
       "commandName": "Project",
-      "launchBrowser": true,
-      "launchUrl": "swagger",
+      "launchUrl": "students",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
